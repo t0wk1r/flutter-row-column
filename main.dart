@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'App Number 01',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Flutter Traning - A4B093'),
+          title: const Text('ROW AND COLUMN'),
           centerTitle: true,
           backgroundColor: Colors.deepOrangeAccent,
           foregroundColor: Colors.black,
@@ -94,7 +94,7 @@ class MyApp extends StatelessWidget {
                           padding: const EdgeInsets.all(14.0),
                           color: Colors.red,
                           child: const Text(
-                            'STD-31084',
+                            'MAST-4444',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               color: Colors.white,
